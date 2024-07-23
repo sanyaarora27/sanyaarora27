@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanya Arora</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align = "right" width= "400" alt= "Coding" src= "https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media.gif">
+<img align = "right" width= "400" alt= "Coding" src= "https://iconscout.com/lottie-animation/female-web-developer-8860218.gif">
 <p align="left"> <a href="https://twitter.com/sanyaarora2701" target="blank"><img src="https://img.shields.io/twitter/follow/sanyaarora2701?logo=twitter&style=for-the-badge" alt="sanyaarora2701" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development and DevOps**
