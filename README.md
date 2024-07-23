@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Sanya Arora</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align = "right" width= "400" alt= "Coding" src= "![image](https://github.com/user-attachments/assets/cc423f69-c82d-4373-8957-45b3ec70a7d9)
-">
 <p align="left"> <a href="https://twitter.com/sanyaarora2701" target="blank"><img src="https://img.shields.io/twitter/follow/sanyaarora2701?logo=twitter&style=for-the-badge" alt="sanyaarora2701" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development and DevOps**
